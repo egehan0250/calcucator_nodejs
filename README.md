@@ -5,6 +5,10 @@ NodeJS terminal Calcucator
 
 An advanced and easy calculator
 
+# 🎈 Images 🎈
+
+![image](https://github.com/egehan0250/calcucator_nodejs/assets/79449566/23115a55-060a-41b8-82c5-c235bb4f01f7)
+
 # Commands 
 
 stop | Terminates the terminal and you cannot process. <br>
@@ -17,9 +21,6 @@ help | Shows the user the operations to be performed. <br>
 % | Modulo operation. <br>
 
 
-# 🎈 Images 🎈
-
-![image](https://github.com/egehan0250/calcucator_nodejs/assets/79449566/23115a55-060a-41b8-82c5-c235bb4f01f7)
 
 
 
