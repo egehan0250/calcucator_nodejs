@@ -14,11 +14,11 @@ An advanced and easy calculator
 stop | Terminates the terminal and you cannot process. <br>
 restart | delete the whole terminal and start over. <br>
 help | Shows the user the operations to be performed. <br>
-+ | Addition operation. <br>
-- | Subtraction operation. <br>
-* | Multiplication operation. <br>
-/ | Division operation. <br>
-% | Modulo operation. <br>
+[+] | Addition operation. <br>
+[-] | Subtraction operation. <br>
+[*] | Multiplication operation. <br>
+[/] | Division operation. <br>
+[%] | Modulo operation. <br>
 
 
 
